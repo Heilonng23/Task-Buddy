@@ -3,10 +3,7 @@ import './App.css';
 
 
 function App() {
-
   const [count , setCount] = useState(0) 
-
-  // let = 0; 
 
   function handleAdd(){
     setCount(count + 1)
