@@ -8,6 +8,7 @@ root.render(
   <React.StrictMode>
     <App />
     <App />
+    <App />
   </React.StrictMode>
 );
 //dont touch here -- 
