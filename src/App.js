@@ -10,7 +10,7 @@ function App() {
   }
   function handleSub(){
     setCount(count - 1)
-  }
+  } // same for resetting
   return (
     <div className='App'>
       <div className='box'>
