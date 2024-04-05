@@ -12,10 +12,10 @@ function App() {
     setCount(count - 1)
   }
   function handleReset(){
-    setCount(0)
+    setCount(0)//here
   }
   return (
-    <div className='App'>//check one1
+    <div className='App'>
       <div className='box'>
         <p>{count}</p>
         <button onClick={handleAdd} className='add'>ADD</button>
