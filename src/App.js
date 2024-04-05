@@ -15,7 +15,7 @@ function App() {
     setCount(0)
   }
   return (
-    <div className='App'>//changees
+    <div className='App'>//check one1
       <div className='box'>
         <p>{count}</p>
         <button onClick={handleAdd} className='add'>ADD</button>
